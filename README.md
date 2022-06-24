@@ -6,6 +6,8 @@
 
 
 <img width="518" alt="Ekran Resmi 2022-06-24 15 47 44" src="https://user-images.githubusercontent.com/43795927/175538966-49f6367e-218d-4b07-a56e-c7dcd2fb4f88.png">
+<img width="518" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
+
 
 Metin Analizi ile Yemek Öneri
 •Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.
