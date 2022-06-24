@@ -3,10 +3,11 @@
 İnsanlar yemek yaparken daha fazla alternatif tarife sahip olmayı tercih ederler. Bu projede,İnsanların yemek tarifi ararken zaman kaybını azaltarak pratik yemek tarifi önerileri almalarına veya kişilerin yemek zevklerine benzer öneriler alarak insanların yeme davranışlarını değiştirmelerine yardımcı olacaktır.
 
 İÇERİĞE BAĞLI YEMEK ÖNERİ 
-[image](https://user-images.githubusercontent.com/43795927/175540973-def94335-edc2-4c58-b7bf-543ccce8f61a.png)
-Kullanıcı android uygulamada sayfada bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,  yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir. Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar. İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.
-[image](https://user-images.githubusercontent.com/43795927/175541102-3ff72389-45c1-4060-bcc0-fdb40d21efef.png)
 
+<img width="518" alt="Ekran Resmi 2022-06-24 15 47 44" src="https://user-images.githubusercontent.com/43795927/175538966-49f6367e-218d-4b07-a56e-c7dcd2fb4f88.png">
+
+Kullanıcı android uygulamada sayfada bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,  yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir. Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar. İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.
+[
 Uygulama, kullanıcıların yemek alışkanlıklarına uygun daha fazla yemek tarif önerisi almalarını amaçlar.Bu sayfada kullanıcının içeriğe bağlı öneri almak için sevdiği yemeğin ismini girer. Kullanıcı adını girdiği yemeğin oy yada yorum sayısına göre yemek tariflerini listeleyebilir. Kullanıcının ismini girdiği yemeğin içeriğinde kullanılan malzemelerin en benzer olduğu yemek tarifleri listelenmekte ve kullanıcıya önerilmektedir. Kullanıcı bu özellik ile yemek zevkine uygun yeni tarifler keşfedebilir
 
 
@@ -15,7 +16,6 @@ Uygulama, kullanıcıların yemek alışkanlıklarına uygun daha fazla yemek ta
 
 
 
-<img width="518" alt="Ekran Resmi 2022-06-24 15 47 44" src="https://user-images.githubusercontent.com/43795927/175538966-49f6367e-218d-4b07-a56e-c7dcd2fb4f88.png">
 <img width="518" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
 
 
