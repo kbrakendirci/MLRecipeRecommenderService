@@ -14,12 +14,12 @@ Kullanıcı android uygulama içerisinde bulunan arama kısmına, veri tabanınd
 
 
 # Metin Analizi ile Yemek Öneri
-•Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.
-•Bu özellik seçilen kelimenin matrisin bir sütunu tarafındantemsil edildiği ve belgedeki her metin örneğinin matriste bir satıra eşlenik
-olduğu bir matris oluşturur. 
-•Her hücrenin değeri, söz konusu metin örneğindeki kelimenin sayısıdır. Bu şekilde girilen metnin özellikleri çıkarılır. 
-•Çıkarılan özellikler ile anahtar kelimeleri en çok eşleşen yemek tarifleri benzer olarak önerilir.
-•Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler.
+Metin ile tarif önerisi alma kişilerin yeni lezzet kombinasyonları keşfetmelerine yardımcı olabilir.Kullanıcı yapmak istediği yemeği tarif etmesi gerekmektedir. Uygulamaya yapmak istediğiniz yemeğin malzemeleri, adımları, hazırlık süresi, pişme tipi yemek türü bilgilerini girerek ,parametrelere uygun yemek tarif önerisi alabilirsiniz.
+![image](https://user-images.githubusercontent.com/43795927/175545457-00049486-718e-4d18-9233-7b4875090869.png)
+
+Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.Bu özellik seçilen kelimenin matrisin bir sütunu tarafındantemsil edildiği ve belgedeki her metin örneğinin matriste bir satıra eşlenik olduğu bir matris oluşturur. Her hücrenin değeri, söz konusu metin örneğindeki kelimenin sayısıdır. Bu şekilde girilen metnin özellikleri çıkarılır.Çıkarılan özellikler ile anahtar kelimeleri en çok eşleşen yemek tarifleri benzer olarak önerilir.
+
+Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler.
 
 
 <img width="473" alt="Ekran Resmi 2022-06-24 15 51 47" src="https://user-images.githubusercontent.com/43795927/175539633-5f468b27-9a00-4546-9935-7589e231a96e.png">
