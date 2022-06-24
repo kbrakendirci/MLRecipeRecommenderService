@@ -6,17 +6,11 @@
 
 <img width="500" alt="Ekran Resmi 2022-06-24 16 16 35" src="https://user-images.githubusercontent.com/43795927/175543820-b8ec41f7-4a15-4b2b-ae39-95f8e68886f6.png"><img width="500" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
 
-Kullanıcı android uygulamada sayfada bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,  yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir. Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar. İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.
-[
-Uygulama, kullanıcıların yemek alışkanlıklarına uygun daha fazla yemek tarif önerisi almalarını amaçlar.Bu sayfada kullanıcının içeriğe bağlı öneri almak için sevdiği yemeğin ismini girer. Kullanıcı adını girdiği yemeğin oy yada yorum sayısına göre yemek tariflerini listeleyebilir. Kullanıcının ismini girdiği yemeğin içeriğinde kullanılan malzemelerin en benzer olduğu yemek tarifleri listelenmekte ve kullanıcıya önerilmektedir. Kullanıcı bu özellik ile yemek zevkine uygun yeni tarifler keşfedebilir
-
-
+Kullanıcı android uygulama içerisinde bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,Kullanıcıya,girilen yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir.Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar.Kullanıcı adını girdiği yemeğin oy yada yorum sayısına göre yemek tariflerini listeleyebilir.İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.Kullanıcılar yemek alışkanlıklarına uygun daha fazla yemek tarif önerisi alabilir ve yemek zevklerine uygun yeni tarifler keşfedebilir.
 
 <img width="510" alt="Ekran Resmi 2022-06-24 15 57 24" src="https://user-images.githubusercontent.com/43795927/175540591-0d90d4eb-40e9-4d5e-bc7a-83c128aa14eb.png">
 
 
-
-<img width="518" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
 
 
 Metin Analizi ile Yemek Öneri
