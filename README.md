@@ -8,7 +8,7 @@
 
 Kullanıcı android uygulama içerisinde bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,Kullanıcıya,girilen yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir.Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar.Kullanıcı adını girdiği yemeğin oy yada yorum sayısına göre yemek tariflerini listeleyebilir.İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.Kullanıcılar yemek alışkanlıklarına uygun daha fazla yemek tarif önerisi alabilir ve yemek zevklerine uygun yeni tarifler keşfedebilir.
 
-<img width="510" alt="Ekran Resmi 2022-06-24 15 57 24" src="https://user-images.githubusercontent.com/43795927/175540591-0d90d4eb-40e9-4d5e-bc7a-83c128aa14eb.png">
+<img width="767" alt="Ekran Resmi 2022-06-24 16 22 40" src="https://user-images.githubusercontent.com/43795927/175544811-55b92379-08b6-4418-9f37-2e9c615bb6e5.png">
 
 
 
