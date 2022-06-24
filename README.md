@@ -19,7 +19,10 @@ Metin ile tarif önerisi alma kişilerin yeni lezzet kombinasyonları keşfetmel
 
 Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.Bu özellik seçilen kelimenin matrisin bir sütunu tarafındantemsil edildiği ve belgedeki her metin örneğinin matriste bir satıra eşlenik olduğu bir matris oluşturur. Her hücrenin değeri, söz konusu metin örneğindeki kelimenin sayısıdır. Bu şekilde girilen metnin özellikleri çıkarılır.Çıkarılan özellikler ile anahtar kelimeleri en çok eşleşen yemek tarifleri benzer olarak önerilir.
 Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler.
-<img width="473" alt="Ekran Resmi 2022-06-24 15 51 47" src="https://user-images.githubusercontent.com/43795927/175539633-5f468b27-9a00-4546-9935-7589e231a96e.png">
 
-Veri Seti 
+<img width="708" alt="Ekran Resmi 2022-06-24 16 54 57" src="https://user-images.githubusercontent.com/43795927/175550470-363f5121-43d5-4d65-9524-8f8f2fc37dd6.png">
+
+# Veri Seti 
+
 Bu araştırmada, Kaggle.com'dan alınan açık kaynaklı veri kümesi kullanılmıştır. Kaggle websitesi, araştırma amacıyla kullanılmak üzere çeşitli veri türleri sağlayan halka açık bir platformdur. Öneri sistemi için Kaggle veri seti foodRecSys-V1 kullanıldı. Bu veri seti, yemek tarifleri için popüler bir web sitesi olan AllRecipes web sitesinden alınan tarifleri içerir.
+Kullanılan Veri Seti:https://www.kaggle.com/datasets/elisaxxygao/foodrecsysv1
