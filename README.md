@@ -2,7 +2,7 @@
 
 İnsanlar yemek yaparken daha fazla alternatif tarife sahip olmayı tercih ederler. Bu projede,İnsanların yemek tarifi ararken zaman kaybını azaltarak pratik yemek tarifi önerileri almalarına veya kişilerin yemek zevklerine benzer öneriler alarak insanların yeme davranışlarını değiştirmelerine yardımcı olacaktır.
 
-İÇERİĞE BAĞLI YEMEK ÖNERİ 
+# İÇERİĞE BAĞLI YEMEK ÖNERİ 
 
 <img width="500" alt="Ekran Resmi 2022-06-24 16 16 35" src="https://user-images.githubusercontent.com/43795927/175543820-b8ec41f7-4a15-4b2b-ae39-95f8e68886f6.png"><img width="500" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
 
@@ -13,7 +13,7 @@ Kullanıcı android uygulama içerisinde bulunan arama kısmına, veri tabanınd
 
 
 
-Metin Analizi ile Yemek Öneri
+# Metin Analizi ile Yemek Öneri
 •Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.
 •Bu özellik seçilen kelimenin matrisin bir sütunu tarafındantemsil edildiği ve belgedeki her metin örneğinin matriste bir satıra eşlenik
 olduğu bir matris oluşturur. 
