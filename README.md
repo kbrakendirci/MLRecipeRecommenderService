@@ -4,7 +4,7 @@
 
 İÇERİĞE BAĞLI YEMEK ÖNERİ !
 
-[Uploading Ekran Resmi 2022-06-24 15.47.33.png…]()
+
 <img width="518" alt="Ekran Resmi 2022-06-24 15 47 44" src="https://user-images.githubusercontent.com/43795927/175538966-49f6367e-218d-4b07-a56e-c7dcd2fb4f88.png">
 
 Metin Analizi ile Yemek Öneri
