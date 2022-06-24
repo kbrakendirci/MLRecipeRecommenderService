@@ -4,7 +4,7 @@
 
 İÇERİĞE BAĞLI YEMEK ÖNERİ 
 
-<img width="500" alt="Ekran Resmi 2022-06-24 15 47 44" src="https://user-images.githubusercontent.com/43795927/175538966-49f6367e-218d-4b07-a56e-c7dcd2fb4f88.png"><img width="500" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
+<img width="500" alt="Ekran Resmi 2022-06-24 16 16 35" src="https://user-images.githubusercontent.com/43795927/175543820-b8ec41f7-4a15-4b2b-ae39-95f8e68886f6.png"><img width="500" alt="Ekran Resmi 2022-06-24 15 53 32" src="https://user-images.githubusercontent.com/43795927/175539953-b817deea-3050-46e6-869b-009350d9af0d.png">
 
 Kullanıcı android uygulamada sayfada bulunan arama kısmına, veri tabanında bulunan herhangi bir yemek tarifinin ismini girerek arama yaptığında,  yemeğin içerik (yemek tarifi içerisinde kullanılan malzemeler) kısmına benzer içeriğe sahip tarifler önerilmektedir. Bu işlem İçerik Bazlı Filtreleme ile yemek tariflerinin malzeme listesinde geçen anahtar kelimeleri bulur ve benzer kelimeleri barındıran yemek tariflerini kullanıcıya sunar. İçerik bazlı filtreleme için Öklid uzaklığı kullanılmaktadır.
 [
