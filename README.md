@@ -20,7 +20,9 @@ Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikle
 Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler
 
 Örnek Sorgu = Give me a Korean food which could be made without oven. It should be low fat and take less than a hour.
+
               Steak which contains tomato and bacon could be made without oven.
+              
               Meaty pasta which contains tomato and pepper and could be cooked less than 30 mins."
 <img width="708" alt="Ekran Resmi 2022-06-24 16 54 57" src="https://user-images.githubusercontent.com/43795927/175550470-363f5121-43d5-4d65-9524-8f8f2fc37dd6.png">
 
