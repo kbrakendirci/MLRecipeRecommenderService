@@ -1,6 +1,6 @@
 # MLRecipeRecommenderService
 
-İnsanlar yemek yaparken daha fazla alternatif tarife sahip olmayı tercih ederler. Bu projede,İnsanların yemek tarifi ararken zaman kaybını azaltarak pratik yemek tarifi önerileri almalarına veya kişilerin yemek zevklerine benzer öneriler alarak insanların yeme davranışlarını değiştirmelerine yardımcı olacaktır.
+Proje Karabük Üniversitesi 2021-2022 yılı Bilgisayar Mühendisliği bitirme projesidir.İnsanlar yemek yaparken daha fazla alternatif tarife sahip olmayı tercih ederler. Bu projede,İnsanların yemek tarifi ararken zaman kaybını azaltarak pratik yemek tarifi önerileri almalarına veya kişilerin yemek zevklerine benzer öneriler alarak insanların yeme davranışlarını değiştirmelerine yardımcı olacaktır.
 
 # İÇERİĞE BAĞLI YEMEK ÖNERİ 
 
