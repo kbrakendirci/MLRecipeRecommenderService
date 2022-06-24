@@ -19,7 +19,7 @@ Metin ile tarif önerisi alma kişilerin yeni lezzet kombinasyonları keşfetmel
 Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikler çıkarılır.Bu özellik seçilen kelimenin matrisin bir sütunu tarafındantemsil edildiği ve belgedeki her metin örneğinin matriste bir satıra eşlenik olduğu bir matris oluşturur. Her hücrenin değeri, söz konusu metin örneğindeki kelimenin sayısıdır. Bu şekilde girilen metnin özellikleri çıkarılır.Çıkarılan özellikler ile anahtar kelimeleri en çok eşleşen yemek tarifleri benzer olarak önerilir.
 Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler
 
-Örnek Sorgu = Give me a Korean food which could be made without oven. It should be low fat and take less than a hour.
+Örnek Sorgu = Give me a Korean food which could be made without oven. It should be low fat and take less than a hour.                                      
 
               Steak which contains tomato and bacon could be made without oven.
               
