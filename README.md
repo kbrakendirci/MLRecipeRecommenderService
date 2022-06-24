@@ -21,5 +21,5 @@ Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikle
 Çıkarılan özellikler : Pişirme Yöntemi,Yemek Tarif Süreleri,Besin Değerleri (high protein", "high fiber", "low fat", "low carb", "low sodium" and "balanced"),Yemeklerin içerisinde kullanılan malzelemeler.
 <img width="473" alt="Ekran Resmi 2022-06-24 15 51 47" src="https://user-images.githubusercontent.com/43795927/175539633-5f468b27-9a00-4546-9935-7589e231a96e.png">
 
-Veri Seti
-Bu araştırmada, Kaggle.com'dan alınan açık kaynaklı veri kümesi kullanılmıştır. Kaggle websitesi, araştırma amacıyla kullanılmak üzere çeşitli veri türleri sağlayan halka açık bir platformdur. Öneri sistemi için Kaggle veri seti foodRecSys-V1 kullanıldı. Bu veri seti, yemek tarifleri için popüler bir web sitesi olan AllRecipes web sitesinden alınan tarifleri içerir.![image](https://user-images.githubusercontent.com/43795927/175541411-e7ad1152-3054-41ef-8dba-9d7a761f6755.png)
+Veri Seti 
+Bu araştırmada, Kaggle.com'dan alınan açık kaynaklı veri kümesi kullanılmıştır. Kaggle websitesi, araştırma amacıyla kullanılmak üzere çeşitli veri türleri sağlayan halka açık bir platformdur. Öneri sistemi için Kaggle veri seti foodRecSys-V1 kullanıldı. Bu veri seti, yemek tarifleri için popüler bir web sitesi olan AllRecipes web sitesinden alınan tarifleri içerir.
