@@ -31,3 +31,5 @@ Pythonda bulunan “CountVectorizer” özelliği ile metinde bulunan özellikle
 
 Bu araştırmada, Kaggle.com'dan alınan açık kaynaklı veri kümesi kullanılmıştır. Kaggle websitesi, araştırma amacıyla kullanılmak üzere çeşitli veri türleri sağlayan halka açık bir platformdur. Öneri sistemi için Kaggle veri seti foodRecSys-V1 kullanıldı. Bu veri seti, yemek tarifleri için popüler bir web sitesi olan AllRecipes web sitesinden alınan tarifleri içerir.
 Kullanılan Veri Seti:https://www.kaggle.com/datasets/elisaxxygao/foodrecsysv1
+
+
